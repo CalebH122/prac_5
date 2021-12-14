@@ -1,5 +1,5 @@
 HEX_COLOURS = {"Amber": "#ffbf00", "Aqua": "#00ffff", "Beige": "#9f8170", "Beaver": "#f5f5dc", "Black": "#000000",
-              "Blue": "#0018a8", "Caml": "#c19a6b", "Denim": "#1560bd", "Ebony": "#555d50", "Fawn": "#e5aa70"}
+               "Blue": "#0018a8", "Caml": "#c19a6b", "Denim": "#1560bd", "Ebony": "#555d50", "Fawn": "#e5aa70"}
 
 print(HEX_COLOURS)
 
