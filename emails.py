@@ -20,6 +20,7 @@ def email_check(email, emails):
         new_name = input("You name is?")
         emails[new_name] = email
 
+
 def get_name(email):
     words = email.split('@')[0]
     name = words.split('.')[0]
